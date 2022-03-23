@@ -1,7 +1,7 @@
 - RINO ELJON ATIBAMAN
 - 312010006
 - TI.20.D.1
-
+![WhatsApp Image 2022-03-24 at 00 53 24](https://user-images.githubusercontent.com/101688124/159765632-49a25004-bcf9-4af0-8c12-58eb245d1d2b.jpeg)
 ## Langkah-langkah Praktikum
 # 1. Membuat dokumen HTML
  Buatlah dokumen HTML seperti berikut
