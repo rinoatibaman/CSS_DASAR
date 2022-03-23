@@ -1,3 +1,8 @@
 # CSS_DASAR
 ini websiteku
-dfhns
+# RINO ELJON ATIBAMAN
+# TI.20.D1
+
+
+# Buatlah dokumen HTML seperti berikut
+
